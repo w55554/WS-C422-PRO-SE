@@ -77,6 +77,14 @@ a.) OS Type: Other OS
 经过测试，可以成功的安装Monterey 12.6 和Big Sur 11.7.10，下面是下载地址和截图
 
 <details><summary>Monterey 12.6(21G115) - 2022.09.12</summary>
+BUG:
+
+1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher]https://github.com/chris1111/Geforce-Kepler-patcher来打显卡不定
+
+2、蓝牙不能正常工作，我这里没有深究，因为我用不到，如果你要用到蓝牙，可以尝试更换蓝牙的kexts驱动尝试一下
+
+3、其他的还没有测试
+
 系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
 </details>
 

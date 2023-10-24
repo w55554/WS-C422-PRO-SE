@@ -7,7 +7,7 @@
 |显卡|华硕角斗士STRIKER-GTX 760-P-4GD5 (NVIDIA GeForce GTX 760)|
 |网卡|2 * Intel I210 Gigabit network connection |
 |WIFI|Intel Dual Band Wireless-AC 7625|
-|蓝牙||
+|蓝牙|版本4.2|
 |声卡|S1220A 声卡(我的声卡ID选择的是21)|
 |MacOS盘|Kingston A400 240G SATA 固态硬盘|
 |硬盘2|三星 SSD 980 500G M.2 NVME 固态|

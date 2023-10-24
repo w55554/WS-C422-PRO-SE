@@ -74,9 +74,9 @@ a.) OS Type: Other OS
   OC的版本选择的是0.7.8
 - 系统版本
 <details><summary>Monterey 12.6(21G115) - 2022.10.16</summary>
- 这里是内容
+系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
 </details>
 
 <details><summary>BigSur 11.7.10(20G1427) - 2021.04.14</summary>
- 这里是内容
+系统下载地址:https://heipg.cn/macos/macos-big-sur-11-7-10-20g1427.html
 </details>

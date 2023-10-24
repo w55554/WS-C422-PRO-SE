@@ -21,6 +21,7 @@
 OC向导: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 ## 安装系统
 - BIOS设置
+
 How to Setting Bios
 1.) /AI Tweaker/
 a.) ASUS MultiCore Enhancement: Auto 

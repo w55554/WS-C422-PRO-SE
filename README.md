@@ -15,5 +15,7 @@
 |硬盘4|希捷 2T 机械硬盘|
 ## 相关资料
 声卡支持: https://github.com/acidanthera/AppleALC/wiki/Supported-codecs
+
 无线网卡: https://www.intel.cn/content/www/cn/zh/products/sku/83635/intel-dual-band-wirelessac-7265/specifications.html
+
 OC向导: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html

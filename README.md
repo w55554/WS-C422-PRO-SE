@@ -23,6 +23,7 @@ OC向导: https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html
 - BIOS设置
 
 How to Setting Bios
+
 1.) /AI Tweaker/
 a.) ASUS MultiCore Enhancement: Auto 
 b.) AVX Instruction Core Ratio Negative Offset: "3" 

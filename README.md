@@ -79,8 +79,11 @@ a.) OS Type: Other OS
 
 <details><summary>BigSur 11.7.10(20G1427) - 2023.09.11</summary>
 BUG:   
+ 
 1、目前测试蓝牙有问题，可能链接不上设备  
+
 2、休眠的时候，CPU风扇一直在反复的停转  
+
 系统下载地址:https://heipg.cn/macos/macos-big-sur-11-7-10-20g1427.html  
  
 ![big sur picture](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/big_sur.png)

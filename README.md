@@ -85,7 +85,9 @@ BUG:
 2、休眠的时候，CPU风扇一直在反复的停转  
 
 系统下载地址:https://heipg.cn/macos/macos-big-sur-11-7-10-20g1427.html  
- 
+
+**系统截图：**
+
 ![big sur picture](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/big_sur.png)
 ![nvme](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/nvme.png)
 ![sata](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/sata.png)

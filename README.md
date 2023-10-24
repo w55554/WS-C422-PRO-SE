@@ -73,6 +73,8 @@ a.) OS Type: Other OS
 - OC版本  
   OC的版本选择的是0.7.8
 - 系统版本
+经过测试，可以成功的安装Monterey 12.6 和Big Sur 11.7.10，下面是下载地址和截图
+
 <details><summary>Monterey 12.6(21G115) - 2022.09.12</summary>
 系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
 </details>

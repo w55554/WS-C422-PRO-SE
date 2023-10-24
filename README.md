@@ -79,7 +79,7 @@ a.) OS Type: Other OS
 <details><summary>Monterey 12.6(21G115) - 2022.09.12</summary>
 BUG:
 
-1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher]https://github.com/chris1111/Geforce-Kepler-patcher来打显卡不定
+1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)来打显卡不定
 
 2、蓝牙不能正常工作，我这里没有深究，因为我用不到，如果你要用到蓝牙，可以尝试更换蓝牙的kexts驱动尝试一下
 

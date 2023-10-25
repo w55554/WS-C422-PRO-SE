@@ -369,7 +369,7 @@
 				<key>Comment</key>
 				<string>V1.0.8</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/RestrictEvents</string>
 				<key>MaxKernel</key>
@@ -513,7 +513,7 @@
 				<key>Comment</key>
 				<string>V2.3.0</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothFirmware</string>
 				<key>MaxKernel</key>
@@ -531,7 +531,7 @@
 				<key>Comment</key>
 				<string>V2.3.0</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -549,7 +549,7 @@
 				<key>Comment</key>
 				<string>V2.3.0</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBTPatcher</string>
 				<key>MaxKernel</key>
@@ -773,7 +773,7 @@
 		<key>Boot</key>
 		<dict>
 			<key>ConsoleAttributes</key>
-			<integer>17</integer>
+			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>HibernateSkipsPicker</key>
@@ -1190,7 +1190,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 alcid=21 debug=0x100 npci=0x2000 agdpmod=pikera  nvda_drv=1 dk.e1000=0 brcmfx-country=HK</string>
+				<string>keepsyms=1 alcid=21 debug=0x100 npci=0x2000 agdpmod=pikera  nvda_drv=1 dk.e1000=0 brcmfx-country=HK</string>
 				<key>csr-active-config</key>
 				<data>ZwAAAA==</data>
 				<key>prev-lang:kbd</key>

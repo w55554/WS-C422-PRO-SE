@@ -96,12 +96,12 @@ BUG:
 
 **系统截图:**
 
-![big sur picture](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/big_sur.png)
-![nvme](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/nvme.png)
-![sata](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/sata.png)
-![pci](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/pci.png)
-![wifi](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/wifi.png)
-![bluetooth](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/Bluetooth.png)
-![ethernet](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/ethernet.png)
+![big sur picture](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/big_sur.png)
+![nvme](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/nvme.png)
+![sata](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/sata.png)
+![pci](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/pci.png)
+![wifi](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/wifi.png)
+![bluetooth](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/Bluetooth.png)
+![ethernet](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/bigsur/ethernet.png)
 
 </details>

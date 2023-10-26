@@ -72,9 +72,9 @@ a.) OS Type: Other OS
   OC的版本选择的是0.7.8
 - 系统版本
 
-经过测试，可以成功的安装Monterey 12.6 和Big Sur 11.7.10，下面是下载地址和截图
+经过测试，可以成功的安装Monterey 12.6、12.6.8 和Big Sur 11.7.10，下面是下载地址和截图
 
-<details><summary>Monterey 12.6(21G115) - 2022.09.12</summary>
+<details><summary>Monterey 12.6.8(21G725) - 2022.09.12</summary>
 BUG:
 
 1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)来打显卡补丁
@@ -84,6 +84,11 @@ BUG:
 3、其他的还没有测试
 
 系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
+
+**系统截图:**
+
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey.png)
+
 </details>
 
 <details><summary>BigSur 11.7.10(20G1427) - 2023.09.11</summary>

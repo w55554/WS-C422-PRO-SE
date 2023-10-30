@@ -87,7 +87,12 @@ BUG:
 
 **系统截图:**
 
-![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/monterey.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/network.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/wifi.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/bluetooth.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/nv_card.png)
+![monterey](https://github.com/w55554/WS-C422-PRO-SE/blob/main/images/monterey/sound.png)	
 
 </details>
 

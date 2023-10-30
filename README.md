@@ -79,9 +79,7 @@ BUG:
 
 1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)来打显卡补丁，我这里采用的是`Geforce Kepler patcher-V7.dmg`
 
-2、蓝牙不能正常工作，我这里没有深究，因为我用不到，如果你要用到蓝牙，可以尝试更换蓝牙的kexts驱动尝试一下
-
-3、其他的还没有测试
+2、休眠有问题，休眠后，风扇停转一会，就突然启动，然后反复的停转启动循环。
 
 系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
 

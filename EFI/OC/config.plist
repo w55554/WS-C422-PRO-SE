@@ -1257,11 +1257,11 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02027130J9JG36AD</string>
+			<string>C02027130J9JXXXXX</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>vGwhhW6l</data>
+			<data>vGwhhXXX</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1269,9 +1269,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02V8BZUHX87</string>
+			<string>C02V8BZUXXXX</string>
 			<key>SystemUUID</key>
-			<string>8C5EA9B8-DEE9-4C26-970D-15D41783CC48</string>
+			<string>8C5EA9B8-DEE9-4C26-XXXX-15D41783CC48</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

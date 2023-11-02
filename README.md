@@ -70,6 +70,8 @@ a.) OS Type: Other OS
 ## 安装系统
 - OC版本  
   OC的版本选择的是0.7.8
+  **注意: 请重新使用SMBIOS生成新的SystemSerialNumber、SystemUUID、ROM、SystemProductName**  
+
 - 系统版本
 
 经过测试，可以成功的安装Monterey 12.6、12.6.8 和Big Sur 11.7.10，下面是下载地址和截图

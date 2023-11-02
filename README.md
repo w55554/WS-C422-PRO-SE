@@ -69,7 +69,7 @@ a.) OS Type: Other OS
 
 ## 安装系统
 - OC版本  
-  OC的版本选择的是0.7.8
+  OC的版本选择的是0.7.8  
   **注意: 请重新使用SMBIOS生成新的SystemSerialNumber、SystemUUID、ROM、SystemProductName**  
 
 - 系统版本

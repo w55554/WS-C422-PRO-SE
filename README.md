@@ -1,7 +1,7 @@
 ## 机型配置如下
 |硬件|厂商和配置|
 |-|-|
-|主板|华硕 WS C422 PRO/SE(c422芯片组)|
+|主板|华硕 WS C422 PRO/SE (c422芯片组)|
 |CPU| Intel Xeon W-2150B|
 |内存|64G(2*32G ECC 2933 MHz SK Hynix内存条，实际受到我的CPU限制，频率只有2666MHz)|
 |显卡|华硕角斗士STRIKER-GTX 760-P-4GD5 (NVIDIA GeForce GTX 760)|

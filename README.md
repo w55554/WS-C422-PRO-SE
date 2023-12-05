@@ -72,16 +72,22 @@ a.) OS Type: Other OS
   OC的版本选择的是0.7.8  
   **注意: 请重新使用SMBIOS生成新的SystemSerialNumber、SystemUUID、ROM、SystemProductName**  
 
+- 测试功能
+  - WIFI 测试正常
+  - 有线网卡正常
+  - 隔空投送未测试
+
+休眠:   
+ 
+1、休眠秒醒，重新定义了USB口，还是有问题，估计是因为没有打补丁的原因。
+
 - 系统版本
 
 经过测试，可以成功的安装Monterey 12.6、12.6.8 和Big Sur 11.7.10，下面是下载地址和截图
 
 <details><summary>Monterey 12.6.8(21G725) - 2022.09.12</summary>
-BUG:
 
 1、因为从12开始，苹果就去掉了NV显卡驱动，所以这里用到[Geforce-Kepler-patcher](https://github.com/chris1111/Geforce-Kepler-patcher)来打显卡补丁，我这里采用的是`Geforce Kepler patcher-V7.dmg`
-
-2、休眠有问题，休眠后，风扇停转一会，就突然启动，然后反复的停转启动循环。
 
 系统下载地址: https://heipg.cn/macos/macos-monterey-12-6-21g115.html
 
@@ -97,10 +103,6 @@ BUG:
 </details>
 
 <details><summary>BigSur 11.7.10(20G1427) - 2023.09.11</summary>
-
-BUG:   
- 
-1、休眠的时候，CPU风扇一直在反复的停转  
 
 系统下载地址:https://heipg.cn/macos/macos-big-sur-11-7-10-20g1427.html  
 
